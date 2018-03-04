@@ -1,6 +1,9 @@
 # Lost Aircraft Finder
 <img src="https://raw.githubusercontent.com/miralem/lost-aircraft-finder/master/img/pcb.png">
+
 This is an open source project and it will stay free for ever. It is simple and very easy to DIY. You need some basic soldering skills and know-how to upload a Arduino Scatch to an ATTingy85 microcontroller. 
+
+<img src="https://scontent.fsjj1-1.fna.fbcdn.net/v/t35.0-12/s2048x2048/28694339_10213269352701638_1121717664_o.jpg?oh=10e8cb17020d51c0268bb747a0936d0a&oe=5A9E0016">
 
 You can find the schema and print the PCB [here](https://easyeda.com/miralem/Lost_model_finder-cdb7c07722624fca823687639389e6d6).
 
