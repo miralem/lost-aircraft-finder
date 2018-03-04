@@ -1,7 +1,7 @@
 # Lost Aircraft Finder
 <img src="https://raw.githubusercontent.com/miralem/lost-aircraft-finder/master/img/pcb.png">
 
-This is an open source project and it will stay free for ever. It is simple and very easy to DIY. You need some basic soldering skills and know-how to upload a Arduino Scatch to an ATTingy85 microcontroller. 
+This is an open source project and it will stay free for ever. It is simple and very easy to DIY. You need some basic soldering skills and know-how to upload a Arduino Sketch to an ATTingy85 microcontroller. 
 
 <img src="https://raw.githubusercontent.com/miralem/lost-aircraft-finder/master/img/soldered_pcb.jpeg">
 
