@@ -24,3 +24,5 @@ This device is ment to be used with its own power source, a small LiPo battery 1
 - SS12D00G3 small switch
 - SW-18010P Vibration Sensor
 - 1S1P LiPo, not more then 150mAh, keep it light
+
+<img src="https://scontent.fsjj1-1.fna.fbcdn.net/v/t35.0-12/28694244_10213269394502683_1306580925_o.jpg?oh=57948915e4828d4a614495c10d0909d0&oe=5A9F0752">
